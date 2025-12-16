@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2317],{6255:e=>{e.exports=JSON.parse('{"label":"logrotate","permalink":"/blog/tags/logrotate","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
